@@ -1,0 +1,8 @@
+name: EffectLimit
+main: co.ooci.ez.Main
+version: ${project.version}
+
+authors:
+  - OociStudio
+
+api-version: 1.20
